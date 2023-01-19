@@ -1,0 +1,1 @@
+# industrial_zone_distance
